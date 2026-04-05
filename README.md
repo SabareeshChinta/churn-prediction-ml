@@ -70,8 +70,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-[Add your deployed app link here]
-
+https://churn-prediction-ml-sabareesh.streamlit.app/
 ---
 
 ## 🚀 Future Improvements
